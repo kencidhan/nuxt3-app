@@ -1,42 +1,15 @@
-# Nuxt 3 Minimal Starter
+안녕하세요, vue3를 공부하면서 만들어본 기본적인 CURD 입니다.<br/>
+아직 일부 미완성본이지만 코드라도 참고하시라고 일단 올립니다.<br/>
+백엔드 API서버는 같이 올려드린 https://github.com/kencidhan/laboard 를 켜놓시면 됩니다.<br/>
+<br/>
+npm 의존성을 설치하시고
+<pre>
+npm i
+</pre>
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
-
-## Setup
-
-Make sure to install the dependencies:
-
-```bash
-# yarn
-yarn install
-
-# npm
-npm install
-
-# pnpm
-pnpm install
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
+개발서버를 실행하시면 됩니다.
+<pre>
 npm run dev
-```
+</pre>
 
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+<br/><br/>
